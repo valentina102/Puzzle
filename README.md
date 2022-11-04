@@ -1,0 +1,1 @@
+# Guide of puzzle Artificial intelligence
